@@ -1,7 +1,7 @@
 # DLBDSMTP01
 This repositroy is for my project from the course DLBDSMTP01 - From model to production
 
-# The machine learning model has been developed and trained in the Google Colab environment, while the API has been written and deployed locally on my laptop.
+The machine learning model has been developed and trained in the Google Colab environment, while the API has been written and deployed locally on my laptop.
 
 The repository contains the ml_model.py file, which defines the machine learning model, a CSV file used for training, the scaler.pkl and anomaly_model.pkl files for deploying the model within the API, the api.py file, which implements the API and a data_generation file which simulates continuous data flow to the api.
 
